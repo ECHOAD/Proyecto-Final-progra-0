@@ -1,0 +1,26 @@
+C:\Users\adria\Desktop\Proyecto con Clases\Prueba2\bin\Debug\netcoreapp3.1\Projecto Final.exe
+C:\Users\adria\Desktop\Proyecto con Clases\Prueba2\bin\Debug\netcoreapp3.1\Projecto Final.deps.json
+C:\Users\adria\Desktop\Proyecto con Clases\Prueba2\bin\Debug\netcoreapp3.1\Projecto Final.runtimeconfig.json
+C:\Users\adria\Desktop\Proyecto con Clases\Prueba2\bin\Debug\netcoreapp3.1\Projecto Final.runtimeconfig.dev.json
+C:\Users\adria\Desktop\Proyecto con Clases\Prueba2\bin\Debug\netcoreapp3.1\Projecto Final.dll
+C:\Users\adria\Desktop\Proyecto con Clases\Prueba2\bin\Debug\netcoreapp3.1\Projecto Final.pdb
+C:\Users\adria\Desktop\Proyecto con Clases\Prueba2\obj\Debug\netcoreapp3.1\Projecto Final.csprojAssemblyReference.cache
+C:\Users\adria\Desktop\Proyecto con Clases\Prueba2\obj\Debug\netcoreapp3.1\Projecto Final.AssemblyInfoInputs.cache
+C:\Users\adria\Desktop\Proyecto con Clases\Prueba2\obj\Debug\netcoreapp3.1\Projecto Final.AssemblyInfo.cs
+C:\Users\adria\Desktop\Proyecto con Clases\Prueba2\obj\Debug\netcoreapp3.1\Projecto Final.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\Proyecto con Clases\Prueba2\obj\Debug\netcoreapp3.1\Projecto Final.dll
+C:\Users\adria\Desktop\Proyecto con Clases\Prueba2\obj\Debug\netcoreapp3.1\Projecto Final.pdb
+C:\Users\adria\Desktop\Proyecto con Clases\Prueba2\obj\Debug\netcoreapp3.1\Projecto Final.genruntimeconfig.cache
+C:\Users\adria\Source\Repos\Proyecto-Final-progra-0\bin\Debug\netcoreapp3.1\Projecto Final.exe
+C:\Users\adria\Source\Repos\Proyecto-Final-progra-0\bin\Debug\netcoreapp3.1\Projecto Final.deps.json
+C:\Users\adria\Source\Repos\Proyecto-Final-progra-0\bin\Debug\netcoreapp3.1\Projecto Final.runtimeconfig.json
+C:\Users\adria\Source\Repos\Proyecto-Final-progra-0\bin\Debug\netcoreapp3.1\Projecto Final.runtimeconfig.dev.json
+C:\Users\adria\Source\Repos\Proyecto-Final-progra-0\bin\Debug\netcoreapp3.1\Projecto Final.dll
+C:\Users\adria\Source\Repos\Proyecto-Final-progra-0\bin\Debug\netcoreapp3.1\Projecto Final.pdb
+C:\Users\adria\Source\Repos\Proyecto-Final-progra-0\obj\Debug\netcoreapp3.1\Projecto Final.csprojAssemblyReference.cache
+C:\Users\adria\Source\Repos\Proyecto-Final-progra-0\obj\Debug\netcoreapp3.1\Projecto Final.AssemblyInfoInputs.cache
+C:\Users\adria\Source\Repos\Proyecto-Final-progra-0\obj\Debug\netcoreapp3.1\Projecto Final.AssemblyInfo.cs
+C:\Users\adria\Source\Repos\Proyecto-Final-progra-0\obj\Debug\netcoreapp3.1\Projecto Final.csproj.CoreCompileInputs.cache
+C:\Users\adria\Source\Repos\Proyecto-Final-progra-0\obj\Debug\netcoreapp3.1\Projecto Final.dll
+C:\Users\adria\Source\Repos\Proyecto-Final-progra-0\obj\Debug\netcoreapp3.1\Projecto Final.pdb
+C:\Users\adria\Source\Repos\Proyecto-Final-progra-0\obj\Debug\netcoreapp3.1\Projecto Final.genruntimeconfig.cache
