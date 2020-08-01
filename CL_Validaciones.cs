@@ -20,6 +20,8 @@ namespace Prueba2
 
             bool usuarioExiste = false;
 
+            int pos=0;
+
 
             string[,] usuarioGeneral = CL_usuarios.LLenarTablaUsuario();
             DateTime[] Fecha = CL_usuarios.returFecha();
@@ -34,7 +36,7 @@ namespace Prueba2
                         Console.WriteLine("**************************************************************************************");
                         Console.WriteLine($"Hola, {usuarioGeneral[i, 0]} ,Acabas de ingresar con el usuario '{usuarioGeneral[i, 1]}' y su rol es *{usuarioGeneral[i, 3]}*." + $" \n {Fecha[i]} ");
                         Console.WriteLine("Bienvenido!");
-
+                        pos = i;
                     }
                     else
                     {
@@ -44,7 +46,7 @@ namespace Prueba2
                         Console.WriteLine();
 
                         Console.WriteLine($" Pero lamentablemente tu usuario esta inactivo  , tienes que inciar sesion con otro usuario, por favor comunicate con el administardor cuyo usuario es *{usuarioGeneral[2, 1]}* " + " \n");
-
+                        pos = i;
                         CL_usuarios.LLenarTablaUsuario();
                     }
 
@@ -52,6 +54,9 @@ namespace Prueba2
                 }
 
             }
+
+            string valor="";
+            bool salida = false;
 
             if (usuarioExiste == false)
             {
@@ -65,24 +70,29 @@ namespace Prueba2
                 Console.WriteLine("");
                 CL_usuarios.LLenarTablaUsuario();
             }
-
-            Console.WriteLine("***************[Desea salir ?]***************");
-            string valor;
-            bool salida=false;
-            do
-            {
-                Console.Write(" Si / NO : ");
-                valor = Console.ReadLine().ToUpper();
-                if (valor == "SI" || valor == "NO")
-                {
-                    salida = true;
-                }
-
            
-            } while (salida==false);
+
+            if ("Activo" == usuarioGeneral[pos,4])
+            {
+                Console.WriteLine("***************[Desea salir ?]***************");
+                
+               
+                do
+                {
+
+                    Console.Write(" Si / NO : ");
+                    valor = Console.ReadLine().ToUpper();
+                    if (valor == "SI" || valor == "NO")
+                    {
+                        salida = true;
+                    }
 
 
-            if (valor == "SI")
+                } while (salida == false);
+            }
+            Console.WriteLine();
+
+            if ( valor== "SI")
             {
                 return "exit";
             }
